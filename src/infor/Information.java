@@ -6,6 +6,8 @@ public class Information {
 		System.out.println("ComputerSW");
 		System.out.println("Wonkwang Uni");
 		System.out.println("20183232");
+
 		System.out.println("hi");
+		System.out.println("ycm");
 	}
 }
